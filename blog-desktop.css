@@ -5,9 +5,9 @@
 }
 .header{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     background-color: #236d54;
-    font-size: 1.5rem;           /* smaller, scales better */
+    font-size: 1.2rem;           /* smaller, scales better */
     padding: 20px 40px;
     position: fixed;
     width: 100%;
